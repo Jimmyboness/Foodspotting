@@ -1,0 +1,49 @@
+body {
+    font-family: helvetica;
+    font-size: 12px;
+    background: #eee;
+}
+
+a {
+    text-decoration: none;
+    width: 49%;
+}
+
+nav{
+    width:100%;
+    margin: 0 auto;
+}
+
+nav img {
+    display: inline-block;
+}
+
+span {
+    font-size: 1.5rem;
+    display: block;
+}
+
+header {
+    width: 100%;
+}
+
+h1 {
+    margin: auto;
+    width: 75%;
+}
+
+section {
+    background: #fff;
+    padding: 5px;
+    margin: 0 auto;
+    width: 75%;
+}
+
+.photo-2x3 img{
+    width: 29%;
+    display: inline-block;
+    margin: auto;
+}
+
+
+
